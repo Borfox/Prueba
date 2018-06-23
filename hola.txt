@@ -1,0 +1,7 @@
+Es interesante el sistema git, hasta ahora se puede dar a comprender como un repositorio o backup de archivos de libre acceso en donde se puede alterar de multiples formas y con diferentes contribuyentes. El git a medida que va mejorandose se dividio en varias formas de trabajo colaborativo que son:
+
+-Sistema de Control de Version Local (SCVL)
+-Sistema de Control de Version Servidor (SCVS)
+-Sistema de Control de Version Distribuido (SCVD)
+
+Algunos comandos 
